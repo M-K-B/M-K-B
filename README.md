@@ -1,39 +1,49 @@
-## Hi, I’m Michael Bradshaw 👋
+## Michael Bradshaw
 
-I'm a Computing graduate focused on full stack development, backend APIs, and automation. I like building tools that solve real problems, especially with TypeScript, Python, and Flutter. Most of my recent work involves:
+London-based developer with a BSc in Computing from Coventry University. I build full stack software, APIs, and mobile apps with a focus on real use cases. Comfortable switching between frontend frameworks and backend systems. I use Python, TypeScript, Flutter, C#, and SQL regularly, and I work across Windows, macOS, and Linux.
 
-- 📦 Building APIs with Supabase, Deno, and Django Ninja  
-- 📱 Creating mobile apps using Flutter  
-- 🌍 Visualising real-world data like police incidents and parking restrictions  
-- ⚙️ Automating workflows and data collection with Python and scripts  
-- 🧠 Experimenting with local AI models on Raspberry Pi 5  
+I’ve built:
+- 📦 Stock management systems using Node.js, Deno, MySQL
+- 📱 Mobile apps with Flutter and .NET MAUI for cross-platform parking solutions
+- 🔐 Security audit tools aligned with OWASP and GDPR
+- 📊 Performance reports comparing cross-platform mobile frameworks
 
-### 🔧 Tech I use regularly:
-| Language | Frameworks/Libraries | Tools |
-|---------|----------------------|-------|
-| TypeScript | React, Next.js, Deno Oak | Supabase, Vercel |
-| Python | FastAPI, Selenium, Pandas | Docker, Git |
-| Dart | Flutter, Riverpod | Firebase, Mapbox |
-| SQL | PostgreSQL | pgAdmin, Prisma |
-| C# / C++ | .NET, WinForms | Visual Studio, JetBrains Rider |
+I’ve worked at:
+- **IKEA**: Automated task tracking with Notion API, handled admin and logistics, optimised delivery scheduling
+- **Uber Boat Thames Clippers**: Managed large-volume passenger flow, coordinated with fleet control, and handled customer support for events and day-to-day services
 
-### 📂 Highlight Repositories
-- [`police_API`](https://github.com/M-K-B/police_API): UK crime data search by area  
-- [`parking_dashboard2`](https://github.com/M-K-B/parking_dashboard2): Parking data visualised on a dashboard  
-- [`parkingAdminDashboard`](https://github.com/M-K-B/parkingAdminDashboard): Admin interface for reviewing user-submitted parking data  
-- [`Flutter_driverDeliveryApp`](https://github.com/M-K-B/Flutter_driverDeliveryApp): Mobile app for driver deliveries  
-- [`DistributionAPI`](https://github.com/M-K-B/DistributionAPI): Logistics and delivery API with route planning and tracking  
+### 🔧 Languages & Tools
 
-### 🧪 Projects in Progress
-- Role-based admin dashboard  
-- AI-powered parking sign reader  
-- Kotlin Android crime data app with filters and polygon queries  
+| Area | Tools & Skills |
+|------|----------------|
+| Languages | Python, TypeScript, JavaScript (Node.js/Deno), SQL, C#, Dart, C++ |
+| Frameworks | Flutter, .NET MAUI, React, FastAPI, Django Ninja |
+| Cloud & DB | Supabase, Firebase, MySQL, PostgreSQL |
+| Dev Tools | Git, Docker, Vercel, Notion API, Selenium |
+| Platforms | Windows, Linux, macOS |
 
-### 📫 How to reach me
-- LinkedIn: [linkedin.com/in/michaelbradshaw-dev]([https://www.linkedin.com/in/michaelbradshaw-dev](https://www.linkedin.com/in/michael-bradshaw-5a4a58148/))
-- GitHub: You're here already
-- Email: Ask me directly  
+### 📚 Projects
+
+| Name | Description |
+|------|-------------|
+| [`police_API`](https://github.com/M-K-B/police_API) | Query UK police data by polygon area |
+| [`parking_dashboard2`](https://github.com/M-K-B/parking_dashboard2) | Parking location visualisation |
+| [`DistributionAPI`](https://github.com/M-K-B/DistributionAPI) | API for tracking and managing deliveries |
+| [`Flutter_driverDeliveryApp`](https://github.com/M-K-B/Flutter_driverDeliveryApp) | Delivery app built with Flutter |
+| [`Security Audit`](https://github.com/M-K-B/Security-Audit) *(Private)* | OWASP-based security testing on a web app |
+
+### 🔍 Interests
+- Backend development
+- Mobile app performance
+- Automation with scripts and APIs
+- AI/ML experiments on local hardware (e.g. Raspberry Pi)
+- Building tools that solve practical problems
+
+### 📫 Contact
+- Portfolio: [m-k-b.github.io/Projects_portfolio](https://m-k-b.github.io/Projects_portfolio)
+- LinkedIn: [linkedin.com/in/michael-bradshaw-5a4a58148](https://www.linkedin.com/in/michael-bradshaw-5a4a58148/)
+- Email: michael.bradshaw00@icloud.com
 
 ---
 
-🛠️ *Always building, always learning.*
+Always experimenting. Always shipping.
