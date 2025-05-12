@@ -30,7 +30,7 @@ I'm a Computing graduate focused on full stack development, backend APIs, and au
 - Kotlin Android crime data app with filters and polygon queries  
 
 ### 📫 How to reach me
-- LinkedIn: [linkedin.com/in/michaelbradshaw-dev](https://www.linkedin.com/in/michaelbradshaw-dev)
+- LinkedIn: [linkedin.com/in/michaelbradshaw-dev]([https://www.linkedin.com/in/michaelbradshaw-dev](https://www.linkedin.com/in/michael-bradshaw-5a4a58148/))
 - GitHub: You're here already
 - Email: Ask me directly  
 
